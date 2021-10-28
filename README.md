@@ -4,10 +4,10 @@ Source code of job market paper
 
 Abstract:
 
-This paper establishes industry labor market monopsony as an important determi-
-nant of labor share dynamics. I expand work from the resurgent monopsony literature
-to construct a theoretical linkage between employment concentration and rm and in-
-dustry labor shares. Utilizing regional industry data from the U.S. Economic Census
+This paper establishes industry labor market monopsony as an important determinant 
+of labor share dynamics. I expand work from the resurgent monopsony literature
+to construct a theoretical linkage between employment concentration and firrm and
+industry labor shares. Utilizing regional industry data from the U.S. Economic Census
 and Bureau of Economic Analysis from 2002-2019, I test the impact of rising labor mar-
 ket concentration on regional labor shares. I nd an increase in labor market monop-
 sony is associated with labor share decline in most private industries, most markedly in
